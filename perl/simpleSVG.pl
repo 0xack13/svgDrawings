@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+  # export SVG: perl simpleSVG.pl > simpleSVG.svg
   use strict;
   use warnings;
 
